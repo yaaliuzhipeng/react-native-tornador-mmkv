@@ -1,0 +1,42 @@
+{
+  "name": "@tornador/mmkv",
+  "title": "MMKV",
+  "version": "1.0.0",
+  "description": "mmkv library",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.ts",
+    "ios",
+    "react-native-tornador-mmkv.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaaliuzhipeng/react-native-tornador-mmkv.git",
+    "baseUrl": "https://github.com/yaaliuzhipeng/react-native-tornador-mmkv"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "yaaliuzhipeng",
+    "email": "yaaliuzhipeng@outlook.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.67.0 <1.0.x",
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.67.0",
+    "typescript": "^4.5.4"
+  }
+}
